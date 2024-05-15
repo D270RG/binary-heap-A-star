@@ -1,0 +1,8 @@
+{
+  "cmake.sourceDirectory": "../",
+  "cmake.configureOnOpen": true,
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "stdbool.h": "c"
+  }
+}
